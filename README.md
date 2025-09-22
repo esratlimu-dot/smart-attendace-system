@@ -18,7 +18,7 @@ Django
 Database:MongoDB
 3.Version control: Git & GitHub
 
-Usage of Smart Attendance System
+Usage of Smart Attendance System:
 1.Educational Institutions (Schools, Colleges, Universities):
   -Automates student attendance in classrooms.
   -Reduces manual roll calls and proxy attendance.
@@ -27,3 +27,10 @@ Usage of Smart Attendance System
   -Tracks employee check-in and check-out times.
   -Integrates with payroll systems to calculate working hours and salaries.
   -Improves punctuality and workforce discipline.
+
+Contributing:
+1.Time saving
+2.Data management
+3.Transparency & Accountability
+4.Integration with Other Systems
+5.Accessibility & Notifications
