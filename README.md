@@ -1,1 +1,1 @@
-# smart-attendace-system
+# smart-attendance-system
