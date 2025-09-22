@@ -9,31 +9,10 @@ A Smart Attendance System is a modern solution designed to automate and simplify
 
 Build with:
 1. Frontend (User Interface)
-
-Web App:
-
-HTML, CSS, JavaScript
-
-Frameworks: React.js, Angular, or Vue.js
-
-Mobile App (optional):
-
-Flutter (cross-platform) or React Native
-
-Java/Kotlin (Android), Swift (iOS)
+Mobile App Language: Flutter 
 
 2. Backend (Server & Logic)
-
 Programming Languages:
-
-Python (Django / Flask / FastAPI)
-
-Node.js (Express.js)
-
-Java (Spring Boot)
-
-Database:
-
-MySQL / PostgreSQL (relational DB)
-
-MongoDB (NoSQL, if more flexibility needed)
+Flutter
+Django 
+Database:MongoDB
