@@ -16,3 +16,14 @@ Programming Languages:
 Flutter
 Django 
 Database:MongoDB
+3.Version control: Git & GitHub
+
+Usage of Smart Attendance System
+1.Educational Institutions (Schools, Colleges, Universities):
+  -Automates student attendance in classrooms.
+  -Reduces manual roll calls and proxy attendance.
+  -Teachers can focus more on teaching instead of record-keeping.
+2.Corporate Offices & Workplaces:
+  -Tracks employee check-in and check-out times.
+  -Integrates with payroll systems to calculate working hours and salaries.
+  -Improves punctuality and workforce discipline.
